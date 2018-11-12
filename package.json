@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "morgan": "^1.9.1",
-    "onoff": "^3.2.2"
+    "onoff": "^3.2.2",
+    "serve-favicon": "^2.5.0"
   }
 }
